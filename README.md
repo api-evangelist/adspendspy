@@ -64,5 +64,26 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-AdSpendSpy (Meta Ad Library Spend API) is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://www.adspendspy.com
+AdSpendSpy provides a tool that leverages the official Meta Ad Library to estimate and analyze ad spend on Facebook and Meta platforms. Users can search for competitors, view ad creatives, spend estimates, and track campaign performance through an intuitive web interface and API endpoints. The service offers a free trial and subscription plans for deeper insights.
+
+**Areas:** Company · Advertising · Analytics · Meta · API
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.adspendspy.com)
+- [Documentation](https://www.adspendspy.com/api-docs)
+- [Getting started](https://www.adspendspy.com/api-docs)
+- [API reference](https://www.adspendspy.com/llms.txt)
+- [Sign up](https://www.adspendspy.com/signup)
+- [Support](https://www.adspendspy.com/contact)
+- [Terms of service](https://www.adspendspy.com/terms)
+- [Privacy policy](https://www.adspendspy.com/privacy)
+- [GitHub](https://github.com/AdspendSpy)
+
+**APIs profiled:** 2
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/adspendspy/](https://apis.io/providers/adspendspy/).
