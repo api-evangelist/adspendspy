@@ -66,7 +66,61 @@
 
 AdSpendSpy provides a tool that leverages the official Meta Ad Library to estimate and analyze ad spend on Facebook and Meta platforms. Users can search for competitors, view ad creatives, spend estimates, and track campaign performance through an intuitive web interface and API endpoints. The service offers a free trial and subscription plans for deeper insights.
 
-**Areas:** Company · Advertising · Analytics · Meta · API
+**Areas:** Company · Advertising · Analytics · Meta
+
+## AdSpendSpy (Meta Ad Library Spend API) on APIs.io
+
+Everything profiled for AdSpendSpy (Meta Ad Library Spend API) is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/adspendspy/](https://apis.io/providers/adspendspy/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [Meta Ad Library Spend API](https://apis.io/apis/adspendspy/meta-ad-library-spend-api/) — Meta Ad Library Spend API provided via AdSpendSpy
+- [Meta Ad Library Spend API by AdSpendSpy API](https://apis.io/apis/adspendspy/meta-ad-library-spend-api-by-adspendspy-api/) — Account-scoped access to the advertisers you track in AdSpendSpy, their ads, your saved lists, projects and pending alerts, plus AdSpendSpy's estimated ad…
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### AsyncAPI (1)
+
+Event-driven and webhook contracts.
+
+- [Adspendspy Webhooks](https://apis.io/asyncapis/adspendspy/adspendspy-webhooks/)
+
+#### MCP servers (1)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [adspendspy-mcp.yml](https://apis.io/servers/adspendspy/adspendspy-mcp-yml/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [AdListResponse](https://apis.io/schemas/adspendspy/adspendspy-ad-list-response/)
+- [CheckTrackedResponse](https://apis.io/schemas/adspendspy/adspendspy-check-tracked-response/)
+- [IntegrationItemListResponse](https://apis.io/schemas/adspendspy/adspendspy-integration-item-list-response/)
+- [ProjectsResponse](https://apis.io/schemas/adspendspy/adspendspy-projects-response/)
+- [TopAdsResponse](https://apis.io/schemas/adspendspy/adspendspy-top-ads-response/)
+- [TrackBrandResponse](https://apis.io/schemas/adspendspy/adspendspy-track-brand-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Adspendspy Context](https://apis.io/jsonld/adspendspy/adspendspy-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [AdSpendSpy (Meta Ad Library Spend API) API Rules](https://apis.io/rules/adspendspy/adspendspy-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [AdSpendSpy (Meta Ad Library Spend API) Domain Security](https://apis.io/security/adspendspy/adspendspy-domain-security/)
 
 ## Where to find this API
 
@@ -82,8 +136,61 @@ Links to the company's own pages. This repository publishes no copy of their spe
 - [Privacy policy](https://www.adspendspy.com/privacy)
 - [GitHub](https://github.com/AdspendSpy)
 
-**APIs profiled:** 2
-
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/adspendspy/](https://apis.io/providers/adspendspy/).
+**Kin Score 46.0** — developing · rubric 0.28.1 · scored 2026-11-21
+
+| Facet | Score |
+|---|---|
+| Discoverability | 75.0 |
+| Contract quality | 64.9 |
+| Contract governance | 35.6 |
+| Operational transparency | 11.9 |
+| Developer ergonomics | 40.5 |
+| Access clarity | 42.6 |
+
+**Agent readiness 42.1** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | yes |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
+
+**Regulatory alignment 18.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/adspendspy/](https://apis.io/providers/adspendspy/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for AdSpendSpy (Meta Ad Library Spend API): the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/adspendspy/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
